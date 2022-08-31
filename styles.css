@@ -1,0 +1,50 @@
+body{
+    background-color: gray;
+}
+
+.border1{
+    margin: 400px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    border: 2px solid white;
+    background-color: white;
+    text-align: center;
+}
+
+.border2{
+    background-color: #c3c3c3;
+    margin: 400px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 50px;
+    padding-top: 1px;
+    height: 100%;
+    
+}
+
+.child1{
+    display: inline-block;
+    margin-right: 115px;
+}
+
+.child2{
+    display: inline-block;
+}
+
+
+h1{
+    color:maroon;
+    
+}
+
+h3{
+    color:maroon;
+    
+}
+
+
+
+label{
+    color:maroon;
+}
+
